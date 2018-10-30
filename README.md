@@ -1,1 +1,1 @@
-# simple-todos
+# Final Exam Mobile Development (The "design class")
