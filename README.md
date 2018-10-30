@@ -1,1 +1,1 @@
-# Final Exam Mobile Development (The "design class")
+# Final Exam Mobile Development (The "design" class)
